@@ -1,0 +1,6 @@
+export const countTypes = Object.freeze({
+    INCREMENT: 'INCREMENT',
+    ASYNC_INCREMENT: 'ASYNC_INCREMENT',
+    DECREMENT: 'DECREMENT',
+    ASYNC_DECREMENT: 'ASYNC_DECREMENT',
+})
